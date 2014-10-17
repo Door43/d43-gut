@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gut:home|Door43 (gut)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gut|d43-gut repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gut/archive/master.zip|d43-gut.zip]]
+
+**Recent Changes**
+{{changes>ns = gut}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gut|Ethnologue data]]
+
